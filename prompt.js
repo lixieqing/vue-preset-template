@@ -2,7 +2,7 @@
  * 允许用户通过命令对话的方式进行项目配置
  */
 module.exports = [
-  {
+/*   {
     type: "list",
     name: "module",
     message: "请你选择要生成的模块",
@@ -18,5 +18,5 @@ module.exports = [
     name: 'mpoduleName',
     message: '请输入模块名称',
     default: 'myModule'
-  }
+  } */
 ]

@@ -1,7 +1,7 @@
 // 负责注入或者修改项目中的文件
 
 module.exports = (api, options, rootOptions) => {
-  api.extendPackages({
+ /*  api.extendPackages({
     scripts: {
       test: "vue-cli-service command",
     },
@@ -15,5 +15,5 @@ module.exports = (api, options, rootOptions) => {
 
   if (options.moduleName === "myModule") {
     console.log(`Your input is ${options.moduleName}`)
-  }
+  } */
 }

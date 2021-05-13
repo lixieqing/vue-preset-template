@@ -16,4 +16,5 @@ module.exports = (api, options, rootOptions) => {
   if (options.moduleName === "myModule") {
     console.log(`Your input is ${options.moduleName}`)
   } */
+  api.render("./template")
 }

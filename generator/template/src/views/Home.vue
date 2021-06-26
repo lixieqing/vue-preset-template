@@ -14,8 +14,7 @@ export default {
 .home {
   width: 100%;
   height: 100%;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url(https://static.jindll.com/static/other/timg.jfif);
+  background-color: #282c34;
   background-size: cover;
   display: flex;
   justify-content: center;
